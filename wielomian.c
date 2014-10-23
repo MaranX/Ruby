@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Marcin Mackiewicz 215505
+
 void wczytajWielomian(int tab[], int stopien) {
 	
 	int i = 0;
