@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+#Marcin Mackiewicz 215505
 # Tutorial jak posługiwać się funkcjami w jezyku Ruby
 
 # By zdefiniowac funkcje nalezy napisać
