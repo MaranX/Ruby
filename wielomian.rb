@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# Marcin Mackiewicz 215505
 
 def wczytajWielomian(tab)
 
