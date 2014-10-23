@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# Marcin Mackiewicz 215505
 
 
 def wczytaj_macierz(matrix, x, y)
