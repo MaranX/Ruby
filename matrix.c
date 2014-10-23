@@ -1,3 +1,4 @@
+//Marcin Mackiewicz 215505
 #include<stdio.h>
 
 void wczytaj_macierz(int x, int y, int matrix[][y]) {
