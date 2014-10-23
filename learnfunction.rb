@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# Tutorial do ruby jak posługiwać się funkcjami w jezyku Ruby
+# Tutorial jak posługiwać się funkcjami w jezyku Ruby
 
 # By zdefiniowac funkcje nalezy napisać
 =begin
